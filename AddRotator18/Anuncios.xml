@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Imagenes/uno.jpg</ImageUrl>
+    <NavigateText>http://www.wikipedia.org/</NavigateText>
+    <AlternateText>Visita Wikipedia</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>aprender</Keyword>
+  </Ad>
+<Ad>
+    <ImageUrl>~/Imagenes/dos.jpg</ImageUrl>
+    <NavigateText>http://www.youtube.org/</NavigateText>
+    <AlternateText>Visita Youtube</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>aprender</Keyword>
+  </Ad>
+<Ad>
+    <ImageUrl>~/Imagenes/tres.jpg</ImageUrl>
+    <NavigateText>http://wikipedia.org/</NavigateText>
+    <AlternateText>Visita facebook</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>socializar</Keyword>
+  </Ad>
+</Advertisements>
